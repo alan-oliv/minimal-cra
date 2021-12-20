@@ -34,4 +34,4 @@ module.exports = {
         document: true,
         HTMLElement: true,
     },
-}
+};
